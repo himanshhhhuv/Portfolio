@@ -77,7 +77,7 @@ const Hero = ({ darkmode }) => {
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.linkedin.com/in/himanshu-verma-b6707520a/?trk=opento_sprofile_details">
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
