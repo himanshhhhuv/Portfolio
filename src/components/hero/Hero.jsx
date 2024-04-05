@@ -89,10 +89,7 @@ const Hero = ({ darkmode }) => {
                 </a>
               </li>
               <li>
-                <a href="">
-                  {" "}
-                  <FaFacebook className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
-                </a>
+              
               </li>
               <li>
                 <a href="">
