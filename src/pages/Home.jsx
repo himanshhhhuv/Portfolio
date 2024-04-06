@@ -8,7 +8,7 @@ import Skills from "../components/skills/Skills";
 import Work from "../components/work/Work";
 
 const Home = () => {
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(true);
   function toggleDarkMode() {
     setDarkMode((prevDarkMode) => {
       if (prevDarkMode) {
